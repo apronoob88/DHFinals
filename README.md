@@ -16,3 +16,9 @@
 	- A sample file containing first 5 lines of  `IMDb movies.csv`
 - `IMDb_movies_w_genre(sample).csv`:
 	- A sample file containing first 5 lines of  `IMDb_movies_w_genre.csv`
+
+# Acknowledgement
+
+The `IMDb movies.csv` file is taken from kaggle website uploaded by Stefano Leone:
+
+[https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset)
